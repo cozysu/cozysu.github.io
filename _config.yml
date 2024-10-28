@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "kozy"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/potato_1f954.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Student, Applied AI @ HYU"
   location         : "Ansan"
   email            :
